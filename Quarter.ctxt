@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Quarter()
+comment1.params=quarter
+comment1.target=boolean\ equals(java.lang.Object)
+comment1.text=\n\ Overrides\ the\ equals\ method\ in\ order\ to\ check\ the\ equality\ of\ the\ Quarter\ class.\n
+numComments=2

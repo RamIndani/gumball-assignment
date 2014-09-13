@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Inspector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=picker
+comment1.target=void\ setPicker(Picker)
+comment1.text=\n\ add\ the\ picker\ into\ the\ ArrayList\ inorder\ to\ get\ the\ gumball\ out\ of\ Gumball\ machine.\n
+comment2.params=picker
+comment2.target=Picker\ getPicker(int)
+comment2.text=\n\ get\ the\ picker\ out\ of\ the\ ArrayList\ in\ order\ to\ get\ the\ gumball\ out\ of\ machine.\n
+comment3.params=insertedCoin
+comment3.target=void\ isValidCoin(Coin)
+comment3.text=\n\ Check\ if\ the\ coin\ is\ valid\ Quarter\ or\ not.\n
+comment4.params=
+comment4.target=void\ crankPressed()
+comment4.text=\n\ When\ crank\ is\ pressed\ on\ Gumball\ machine\ check\ if\ quater\ is\ added\ if\ added\ then\ get\ the\ gumball\ out\ else\ not.\n
+comment5.params=
+comment5.target=Picker\ getPickerRandom()
+comment5.text=\n\ select\ one\ of\ the\ picker\ from\ RandomPicker\ or\ GreenPicker.\n
+numComments=6

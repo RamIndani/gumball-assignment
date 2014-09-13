@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gumball()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=requestGumball
+comment2.target=void\ setIsGumballRequested(boolean)
+comment3.params=
+comment3.target=boolean\ getIsGumballRequested()
+numComments=4

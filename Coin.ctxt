@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=isValid
+comment1.target=void\ setIsValidCoin(boolean)
+comment1.text=\n\ set\ if\ valid\ coin\ is\ inserted.\n
+comment2.params=
+comment2.target=boolean\ getisValidCoin()
+comment2.text=\n\ get\ if\ the\ valid\ coin\ is\ inserted.\n
+numComments=3

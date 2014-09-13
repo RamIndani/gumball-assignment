@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Picker\ getRandomPicker()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ RandomPicker\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ pick()
+comment2.text=\n\ pick\ the\ picker\ randomly\ to\ get\ the\ random\ gumball\ out\ of\ the\ gumball\ machine.\n
+comment3.params=gb\ world
+comment3.target=void\ removeObjectFromWorld(Gumball,\ greenfoot.World)
+comment3.text=\n\ once\ gumball\ appears\ on\ screen\ new\ thread\ is\ created\ and\ it\ waits\ for\ 1\ second\ and\ then\ removes\ the\ gumball\ from\ the\ world\n\ and\ represents\ it\ as\ gumball\ picked\ when\ it\ gets\ out\ of\ gumball\ machine.\n
+comment4.params=
+comment4.target=void\ run()
+numComments=5
